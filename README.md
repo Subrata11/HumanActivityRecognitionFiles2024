@@ -1,4 +1,10 @@
-# Human Activity Recognition (HAR) July, 2024
+# Human Activity Recognition (HAR) August, 2024
+
+
+![s](https://github.com/user-attachments/assets/7a9d2ff7-09e8-4fc4-85dd-2be709ce5664)
+
+
+![a](https://github.com/user-attachments/assets/e97da897-428d-4659-91a4-33ecfa114dda)
 
 I will upload source code and its relevant all files to this link as soon as possible. 
 1.	Abstract of this research (A brief summary of the research question, methods, results, and conclusions)
