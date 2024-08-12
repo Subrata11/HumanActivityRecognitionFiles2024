@@ -1,4 +1,4 @@
-# Human Activity Recognition (HAR) August, 2024
+# Human Activity Recognition (HAR) [August, 2024]
 
 
 ![s](https://github.com/user-attachments/assets/7a9d2ff7-09e8-4fc4-85dd-2be709ce5664)
